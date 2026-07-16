@@ -1,0 +1,226 @@
+{
+  "TermsAndConditions": {
+    "companyName": "Comfygen Technologies",
+    "intro": "These Terms & Conditions (“Agreement”) govern the provision of services by Comfygen Technologies (“Company”, “we”, “our”, “us”) to the client (“Client”, “you”, “your”). By engaging our services, you agree to be bound by this Agreement. This Agreement applies to all software, web, mobile application, IT consulting, digital transformation, and technology-related services provided by Comfygen Technologies.",
+    "sections": [
+      {
+        "heading": "Scope of Services",
+        "points": [
+          "Comfygen Technologies will provide IT and software-related services as agreed in writing through proposals, contracts, quotations, or statements of work.",
+          "Services may include but are not limited to Software Development, Web Development, Mobile App Development, UI/UX Design & Consulting, Maintenance & Technical Support, Cloud, DevOps, API Integrations, and Digital Solutions.",
+          "Any work outside the agreed scope shall require a separate agreement, revised quotation, or approved change request."
+        ]
+      },
+      {
+        "heading": "Client Responsibilities",
+        "points": [
+          "Provide accurate, timely, and complete information required for project execution.",
+          "Ensure all content, materials, or data shared do not violate third-party rights.",
+          "Cooperate and provide approvals/feedback within agreed timelines.",
+          "Share clear project requirements for proper estimation.",
+          "Review updates regularly and communicate delays in advance.",
+          "Failure to provide timely feedback may affect timelines and delivery schedules."
+        ]
+      },
+      {
+        "heading": "Payments & Fees",
+        "points": [
+          "All invoices must be paid according to agreed payment schedules (milestones, retainers, or fixed-price structure).",
+          "Hourly, weekly, monthly, or dedicated resource-based engagements require advance payment.",
+          "Fixed-cost projects follow milestone-based payments defined in proposal or agreement.",
+          "All fees are exclusive of applicable taxes unless otherwise stated.",
+          "Payments are non-refundable unless explicitly agreed in writing.",
+          "Delayed payments may result in project suspension or delivery delays.",
+          "Late payments may attract penalties or interest as permitted by law or contract."
+        ]
+      },
+      {
+        "heading": "Resources & Timelines",
+        "points": [
+          "Comfygen Technologies may allocate developers, designers, QA engineers, project managers, and support staff based on project requirements.",
+          "Public holidays or company leave schedules will be informed in advance and timelines may be adjusted accordingly.",
+          "Estimated timelines depend on timely client communication and approvals."
+        ]
+      },
+      {
+        "heading": "Intellectual Property Rights",
+        "points": [
+          "Upon full payment, ownership of project deliverables specifically developed for the Client shall transfer to the Client.",
+          "Pre-existing frameworks, reusable modules, libraries, internal tools, methodologies, or proprietary assets remain property of Comfygen Technologies.",
+          "The Client receives a non-exclusive license to use such incorporated components where necessary."
+        ]
+      },
+      {
+        "heading": "Timelines & Delays",
+        "points": [
+          "Comfygen Technologies will make commercially reasonable efforts to complete work within agreed timelines.",
+          "Delays caused by incomplete requirements, missing inputs, or late feedback from the Client may extend timelines.",
+          "We shall not be liable for delays caused by force majeure events including internet failures, natural disasters, pandemics, government restrictions, hosting issues, or third-party service disruptions."
+        ]
+      },
+      {
+        "heading": "Revisions & Change Requests",
+        "points": [
+          "Deliverables include revisions only as defined in the proposal or agreement.",
+          "Any additional revisions or out-of-scope requests may incur additional charges."
+        ]
+      },
+      {
+        "heading": "Confidentiality",
+        "points": [
+          "Both parties agree to maintain confidentiality regarding all business, financial, technical, and proprietary information exchanged.",
+          "Disclosure is allowed only where required by applicable law."
+        ]
+      },
+      {
+        "heading": "Service Quality & Operations",
+        "points": [
+          "Comfygen Technologies follows agile or milestone-based project methodologies.",
+          "Regular updates are provided via email, meetings, Slack, Teams, WhatsApp, or project management tools.",
+          "Services are delivered in a professional and cost-effective manner.",
+          "Company will not directly contact end clients or outsource work without prior approval unless agreed.",
+          "Unless agreed, work will not be performed directly on live production servers."
+        ]
+      },
+      {
+        "heading": "Support & Maintenance",
+        "points": [
+          "Post-delivery support is available only if included in the proposal or purchased separately.",
+          "Bug fixes during agreed warranty period are provided free of charge.",
+          "Warranty excludes third-party modifications, hosting/server issues, misuse, API/provider changes, or unauthorized changes."
+        ]
+      },
+      {
+        "heading": "Source Code & Data Responsibility",
+        "points": [
+          "Once project files or source code are delivered, Comfygen Technologies is not obligated to retain backups.",
+          "Client is responsible for maintaining backups and safeguarding credentials and repositories.",
+          "Post-delivery storage or maintenance requires a separate agreement."
+        ]
+      },
+      {
+        "heading": "Client Inactivity During Development",
+        "points": [
+          "If the Client is unresponsive for more than 30 days, timelines, scope, and pricing may be revised.",
+          "If inactivity exceeds 6 months, project files and resources may not be retained.",
+          "Restarting may require a revised agreement."
+        ]
+      },
+      {
+        "heading": "Project Acceptance",
+        "points": [
+          "Client must review and test project in staging/development environment before deployment.",
+          "Deployment occurs after final approval and payment clearance.",
+          "Post-acceptance changes are billed separately.",
+          "Clients are advised to maintain regular backups."
+        ]
+      },
+      {
+        "heading": "Warranty Period",
+        "points": [
+          "Standard warranty period is 30 days from deployment unless otherwise agreed.",
+          "Issues reported within warranty are resolved free of charge.",
+          "Warranty excludes third-party integrations, misuse, or unauthorized modifications.",
+          "No guarantee of business profitability or commercial outcomes."
+        ]
+      },
+      {
+        "heading": "Restrictions",
+        "points": [
+          "Client shall not directly hire or solicit company employees or contractors for 1 year after project completion.",
+          "Client shall not bypass Comfygen Technologies to work directly with vendors or teams introduced during engagement."
+        ]
+      },
+      {
+        "heading": "Termination",
+        "points": [
+          "Either party may terminate upon written notice if material breach is not resolved within 15–30 days.",
+          "Termination may occur if outstanding invoices remain unpaid beyond due date.",
+          "Completed work will be invoiced and payable upon termination.",
+          "Deliverables may be transferred against cleared payments."
+        ]
+      },
+      {
+        "heading": "Governing Law & Jurisdiction",
+        "points": [
+          "This Agreement is governed by the laws of India.",
+          "Jurisdiction shall lie exclusively in the courts of Jaipur, Rajasthan, India."
+        ]
+      },
+      {
+        "heading": "Amendments & Privacy Policy",
+        "points": [
+          "Comfygen Technologies reserves the right to modify Terms & Conditions or Privacy Policy at any time.",
+          "Continued use of services constitutes acceptance of updated terms."
+        ]
+      },
+      {
+        "heading": "Acceptable Use of Services",
+        "points": [
+          "Clients shall not use services for illegal, fraudulent, or harmful activities.",
+          "Spam, phishing, malware, or malicious attacks are strictly prohibited.",
+          "Security bypass attempts or system misuse are not allowed."
+        ]
+      },
+      {
+        "heading": "Anti-Spam Policy",
+        "points": [
+          "Comfygen Technologies maintains a zero-tolerance policy toward spam or unauthorized bulk communication.",
+          "Violations may result in immediate suspension without refund."
+        ]
+      },
+      {
+        "heading": "Prohibited Content & Liability",
+        "points": [
+          "Clients shall not upload or process content that violates intellectual property rights.",
+          "Content must not be defamatory, unlawful, offensive, or invasive of privacy.",
+          "Client is fully responsible for all hosted or processed content."
+        ]
+      },
+      {
+        "heading": "Security & Unauthorized Access",
+        "points": [
+          "Unauthorized access attempts, hacking, reverse engineering, malware distribution, or exploitation of vulnerabilities is strictly prohibited.",
+          "Such actions may lead to legal consequences."
+        ]
+      },
+      {
+        "heading": "Fair Usage of Infrastructure",
+        "points": [
+          "Excessive resource usage beyond agreed limits may result in throttling, additional billing, or suspension.",
+          "Applies to hosting, cloud, or server infrastructure where provided."
+        ]
+      },
+      {
+        "heading": "Immediate Suspension Rights",
+        "points": [
+          "Company may immediately suspend services if client violates terms.",
+          "Suspension may occur if legal, financial, or security risks arise.",
+          "Outstanding payment obligations remain unaffected by suspension."
+        ]
+      },
+      {
+        "heading": "Indemnification",
+        "points": [
+          "Client agrees to indemnify Comfygen Technologies against legal claims, damages, or liabilities arising from misuse.",
+          "Includes breach of agreement or violation of laws or third-party rights."
+        ]
+      },
+      {
+        "heading": "Third-Party Services Disclaimer",
+        "points": [
+          "Company is not liable for failures caused by hosting providers, cloud vendors, payment gateways, app stores, or third-party APIs.",
+          "Reasonable support will be provided for coordination where applicable."
+        ]
+      },
+      {
+        "heading": "Domain, Hosting & Server Management (If Applicable)",
+        "points": [
+          "Client is responsible for renewals, payments, and credential security.",
+          "Company is not liable for losses due to expiration, suspension, or unauthorized access.",
+          "Domain ownership and hosting management remain client responsibility."
+        ]
+      }
+    ]
+  }
+}
